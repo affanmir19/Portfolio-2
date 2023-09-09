@@ -131,6 +131,7 @@ footer a {
     color: aqua;
 }
 
+
 @media only screen and (max-width:768px) {
     .navbar ul li {
         display: block;
@@ -147,8 +148,8 @@ footer a {
     }
 
     .div-2 img {
-        margin-left: -120px;
-        width: 140%;
+        margin-left: -87px;
+        width: 120%;
     }
 
     .div-2,
