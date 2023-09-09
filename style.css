@@ -134,7 +134,7 @@ footer a {
 
 @media only screen and (max-width:768px) {
     .navbar ul li {
-        display: block;
+        display: none;
         margin: 2px;
     }
 
